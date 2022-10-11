@@ -1,3 +1,4 @@
+package java_capitulo_1;
 public class Ejercicio3 {
     public static void main(String[] args){
         System.out.printf( "%-10s %s\n",  "football", "fútbol");
